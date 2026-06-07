@@ -19,7 +19,7 @@ The Medical Imaging and Data Resource Center (MIDRC) is an open, curated commons
 | MIDRC-MetricTree | Interactive decision tree for choosing performance metrics | https://www.midrc.org/performance-metrics-decision-tree |
 | Bias awareness tool | Interactive decision tree for recognizing and addressing bias | https://www.midrc.org/ |
 | Publications | Current list of MIDRC publications | https://www.midrc.org/midrc-publications |
-| YouTube channel | Tutorials, seminars, and walkthroughs | https://www.youtube.com/@midrc |
+| YouTube channel | Tutorials, seminars, and walkthroughs | https://www.youtube.com/@midrc_ |
 | Newsletter & social | Updates via Newsletter, LinkedIn, and X/Twitter | linked from https://www.midrc.org |
 
 The MIDRC-MetricTree and the bias awareness tool are hands-on starting points for how MIDRC operationalizes evaluation and bias mitigation. The YouTube channel has short walkthroughs for both.
@@ -50,9 +50,9 @@ Grouped by topic, with full author lists, DOIs, and links.
 
 ### Interoperability and data linkage
 
-- Chen W, Whitney HM, et al. "Multimodal data curation via interoperability: use cases with the Medical Imaging and Data Resource Center." *Scientific Data* (2024). doi:[10.1038/s41597-024-03991-w](https://doi.org/10.1038/s41597-024-03991-w) — confirm final DOI, volume, and author list against the published version.
+- Chen W, Whitney HM, et al. "Multimodal data curation via interoperability: use cases with the Medical Imaging and Data Resource Center." *Scientific Data* (2025). doi:[10.1038/s41597-024-03991-w](https://doi.org/10.1038/s41597-024-03991-w) 
 
-- Whitney HM, Baccile R, et al. "Demonstration of Interoperability Between MIDRC and N3C." *Journal of Imaging Informatics in Medicine* (2025). doi: to be confirmed — confirm DOI and author list.
+- Whitney HM, Baccile R, et al. "Demonstration of Interoperability Between MIDRC and N3C." *Journal of Imaging Informatics in Medicine* (2025). doi: [https://doi.org/10.1007/s10278-025-01605-4](https://doi.org/10.1007/s10278-025-01605-4)
 
 ### Bias across the AI pipeline
 
@@ -64,7 +64,7 @@ Grouped by topic, with full author lists, DOIs, and links.
 
 ### Lack of proactive bias assessment
 
-- Chaker S, Sethi A, Whitney HM. Scoping review of bias detection and mitigation in peer-reviewed imaging-AI classification studies (2015–2025). In revision. Citation to be finalized on acceptance.
+- Chaker S, Sethi A, Whitney HM. Scoping review of bias detection and mitigation in peer-reviewed imaging-AI classification studies (2015–2025). In revision. 
 
 ### Data drift
 
