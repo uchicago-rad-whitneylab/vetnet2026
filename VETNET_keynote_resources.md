@@ -17,10 +17,10 @@ The Medical Imaging and Data Resource Center (MIDRC) is an open, curated commons
 | Resource | What it is | Link |
 |---|---|---|
 | Main site | Overview, news, and entry point to all resources | https://www.midrc.org |
-| Data Commons | Open, FAIR, AI/ML-ready imaging data (~80% of cases) | https://data.midrc.org |
+| Data Commons | Open, FAIR, AI/ML-ready imaging data | https://data.midrc.org |
 | Tools | Algorithms, software, and decision-support tools | https://www.midrc.org/tools-1 |
 | MIDRC-MetricTree | Interactive decision tree for choosing performance metrics | https://www.midrc.org/performance-metrics-decision-tree |
-| Bias awareness tool | Interactive decision tree for recognizing and addressing bias | https://www.midrc.org/ |
+| MIDRC AI reliability tool | Interactive decision tree for recognizing and addressing reliability issues | www.midrc.org/ai-reliability-tool-1 |
 | Publications | Current list of MIDRC publications | https://www.midrc.org/midrc-publications |
 | YouTube channel | Tutorials, seminars, and walkthroughs | [https://www.youtube.com/@midrc_](https://www.youtube.com/watch?v=jB8eGmHjr_w) |
 | Newsletter & social | Updates via Newsletter, LinkedIn, and X/Twitter | linked from https://www.midrc.org |
