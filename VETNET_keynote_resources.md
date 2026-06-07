@@ -1,6 +1,9 @@
 # What Can Become? Learning from Benchmark Successes and Failures in Human Medical Imaging
 
-**Heather M. Whitney, PhD** — Assistant Professor of Radiology, The University of Chicago, on behalf of MIDRC
+**Heather M. Whitney, PhD** — Assistant Professor of Radiology, The University of Chicago
+
+on behalf of MIDRC, the Medical Imaging and Data Resource Center
+
 Keynote, VETNET Thought Summit, Cornell University — June 9, 2026
 
 This page accompanies the keynote. It points to MIDRC resources and lists every publication referenced in the talk, including those cited in the speaker notes, with full author lists, DOIs, and links.
@@ -19,7 +22,7 @@ The Medical Imaging and Data Resource Center (MIDRC) is an open, curated commons
 | MIDRC-MetricTree | Interactive decision tree for choosing performance metrics | https://www.midrc.org/performance-metrics-decision-tree |
 | Bias awareness tool | Interactive decision tree for recognizing and addressing bias | https://www.midrc.org/ |
 | Publications | Current list of MIDRC publications | https://www.midrc.org/midrc-publications |
-| YouTube channel | Tutorials, seminars, and walkthroughs | https://www.youtube.com/@midrc_ |
+| YouTube channel | Tutorials, seminars, and walkthroughs | [https://www.youtube.com/@midrc_](https://www.youtube.com/watch?v=jB8eGmHjr_w) |
 | Newsletter & social | Updates via Newsletter, LinkedIn, and X/Twitter | linked from https://www.midrc.org |
 
 The MIDRC-MetricTree and the bias awareness tool are hands-on starting points for how MIDRC operationalizes evaluation and bias mitigation. The YouTube channel has short walkthroughs for both.
