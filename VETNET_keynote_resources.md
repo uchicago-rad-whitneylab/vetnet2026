@@ -95,4 +95,4 @@ Grouped by topic, with full author lists, DOIs, and links.
 
 ---
 
-For the current MIDRC publication list, see https://www.midrc.org/midrc-publications. Entries marked for confirmation are in press or in revision and should be checked against the journal of record before publishing this page.
+For the current MIDRC publication list, see https://www.midrc.org/midrc-publications. 
