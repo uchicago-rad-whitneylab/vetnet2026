@@ -1,6 +1,6 @@
 # What Can Become? Learning from Benchmark Successes and Failures in Human Medical Imaging
 
-**Heather M. Whitney, PhD** — Assistant Professor of Radiology, The University of Chicago
+**Heather M. Whitney, PhD** — Assistant Professor of Radiology, The University of Chicago [LinkedIn profile](https://www.linkedin.com/in/heathermwhitney/)
 
 on behalf of MIDRC, the Medical Imaging and Data Resource Center
 
